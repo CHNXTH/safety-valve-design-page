@@ -1,0 +1,29 @@
+{
+  "video": {
+    "fileName": "intro-video.mp4",
+    "originalName": "去logo2min以内.mp4",
+    "bytes": 33059547
+  },
+  "cover": {
+    "fileName": "cover.jpg",
+    "originalName": "全部的.jpg",
+    "bytes": 620708
+  },
+  "images": [
+    {
+      "fileName": "showcase-01.jpg",
+      "originalName": "全部的.jpg",
+      "bytes": 620708
+    },
+    {
+      "fileName": "showcase-02.png",
+      "originalName": "有人的.png",
+      "bytes": 765034
+    },
+    {
+      "fileName": "showcase-03.jpg",
+      "originalName": "自动研磨.jpg",
+      "bytes": 315044
+    }
+  ]
+}
